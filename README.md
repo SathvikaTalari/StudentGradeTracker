@@ -1,3 +1,4 @@
-# StudentGradeTracker
-TASK  - 1
-Student Grade Tracker program using Java. (A student grade tracker using the concept of arrays and switch statement for choices in java). 
+Code Alpha - Java Programming Internship
+
+Task - 1 : Student Grade Tracker
+A Program that allows Teacher to enter the Students grades and compute their Highest,Lowest and Average grades of individual students and even give the overall Highest and Lowest grade of students in a class using Arrays to store the Data.
